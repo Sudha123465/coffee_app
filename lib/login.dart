@@ -15,7 +15,7 @@ class _MyLoginState extends State<MyLogin>{
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(
-        image: DecorationImage(image: AssetImage('assets/two.jpg'),fit: BoxFit.cover),
+        image: DecorationImage(image: AssetImage('assets/images/two.jpg'),fit: BoxFit.cover),
       ),
       child: Scaffold(
         backgroundColor: Colors.transparent,

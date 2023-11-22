@@ -8,7 +8,7 @@ class MyRegister extends StatelessWidget{
     return Container(
       decoration: const BoxDecoration(
         image: DecorationImage(
-            image: AssetImage('assets/one.jpg'),fit: BoxFit.cover),
+            image: AssetImage('assets/images/one.jpg'),fit: BoxFit.cover),
       ),
       child: Scaffold(
         backgroundColor: Colors.transparent,
